@@ -1,7 +1,7 @@
 # r-code-commit-github
 Example of running R code on a schedule to commit a file to GitHub
 
-See https://code.markedmondson.me/googleCloudRunner/articles/usecases.html
+See this [use case amoung the others within the googleCloudRunner documentation here](https://code.markedmondson.me/googleCloudRunner/articles/usecases.html#run-an-r-script-save-results-to-github-1)
 
 ## Run an R script, save results to GitHub
 
