@@ -51,7 +51,6 @@ build_yaml <- cr_build_yaml(
   steps = bs,
   substitutions = list(`_GITHUB_REPO`="MarkEdmondson1234/r-code-commit-github")
 )
-build_yaml
 
 ```
 
