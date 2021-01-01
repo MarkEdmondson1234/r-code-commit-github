@@ -20,6 +20,8 @@ It assumes you have set-up googleCloudRunner via `cr_setup()` for Cloud Builds a
 For this we first need to create build steps that run the R code and commit the results back to a repo.
 
 ```r
+library(googleCloudRunner)
+
 # can be R file location or in-line code
 r_code <- c("x <- rnorm(1:10)",
             "dir.create('data-raw')",
